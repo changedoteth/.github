@@ -9,3 +9,5 @@ Changeth is a system that combines zero-knowledge cryptography with Sybil-resist
 
 
 ## Team
+- Atris [GitHub](https://github.com/vacekj) [Twitter](https://twitter.com/atris_eth) - Founder and fullstack developer, core contributor at Gitcoin
+- Jan Benik [LinkedIn](https://www.linkedin.com/in/jan-ben%C3%ADk-5bbb38266/) -  Frontend developer, Business development
